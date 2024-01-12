@@ -1,0 +1,15 @@
+C:\workspace\DEMOS\bin\Debug\net6.0\DEMOS.exe
+C:\workspace\DEMOS\bin\Debug\net6.0\DEMOS.deps.json
+C:\workspace\DEMOS\bin\Debug\net6.0\DEMOS.runtimeconfig.json
+C:\workspace\DEMOS\bin\Debug\net6.0\DEMOS.dll
+C:\workspace\DEMOS\bin\Debug\net6.0\ref\DEMOS.dll
+C:\workspace\DEMOS\bin\Debug\net6.0\DEMOS.pdb
+C:\workspace\DEMOS\obj\Debug\net6.0\DEMOS.csproj.AssemblyReference.cache
+C:\workspace\DEMOS\obj\Debug\net6.0\DEMOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DEMOS\obj\Debug\net6.0\DEMOS.AssemblyInfoInputs.cache
+C:\workspace\DEMOS\obj\Debug\net6.0\DEMOS.AssemblyInfo.cs
+C:\workspace\DEMOS\obj\Debug\net6.0\DEMOS.csproj.CoreCompileInputs.cache
+C:\workspace\DEMOS\obj\Debug\net6.0\DEMOS.dll
+C:\workspace\DEMOS\obj\Debug\net6.0\ref\DEMOS.dll
+C:\workspace\DEMOS\obj\Debug\net6.0\DEMOS.pdb
+C:\workspace\DEMOS\obj\Debug\net6.0\DEMOS.genruntimeconfig.cache
